@@ -1,0 +1,10 @@
+#titulo1{
+    color: rgb(72, 127, 216);
+    margin-left: 50px;
+    padding-left: 50px;
+}
+
+.title {
+    border: solid;
+    border-radius: 20px;
+}
